@@ -18,7 +18,7 @@
 
 - Sobre
 - Tecnologias Utilizadas
-- Web Screenshots
+- Screenshot
 - Como rodar o projeto
 
 ## :bookmark: Sobre
@@ -42,6 +42,7 @@ Essas são as tecnologias que foram utilizadas.
   - [Axios](https://github.com/axios/axios)
   - [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons)
   - [React Native Async Storage](https://github.com/react-native-async-storage/async-storage)
+  
 ### Um pouco sobre o desenvolvimento da aplicação
 
 Por ser uma aplicação pequena, optei em utilizar o Context API para gerenciar todo 
@@ -51,10 +52,10 @@ api estou utilizando o axios, e para a navegação entre telas utilizei o famoso
 assim ficando salvo para que quando finalizar a aplicação e voltarmos nosso favoritos
 esteja ali salvos para não perdemos nenhum titulo importante =D  
 
-## ::iphone: Screenshots
+## :iphone: Screenshot
 
 <div width="" style="display: flex; align-items: 'center'; justify-content: space-evenly">
-  <img src="https://github.com/pablohdev/dev-cinemapp/blob/main/.github/images/screen.gif" width="400px">
+  <img src="https://github.com/pablohdev/dev-cinemapp/blob/master/.github/images/screen.gif" width="400px">
 </div>
 
 
