@@ -66,7 +66,7 @@ esteja ali salvos para não perdemos nenhum titulo importante =D
 $ git clone https://github.com/pablohdev/dev-cinemapp
 ```
 
-### :iphone: mobiExecutando o projeto
+### :iphone: Executando o projeto
 
 ```bash
 # Navegue até a pasta
