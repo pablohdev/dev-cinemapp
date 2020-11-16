@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <a href="https://reactnative.dev/">
     <img alt="React Native" src="https://img.shields.io/badge/React%20Native-7519C1">
